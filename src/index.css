@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* clerk user button adjust */
+.ci-avatarBox{
+  width: 3rem;
+  height: 3rem;
+}
